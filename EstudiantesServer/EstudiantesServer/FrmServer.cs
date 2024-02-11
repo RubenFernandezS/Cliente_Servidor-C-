@@ -75,8 +75,7 @@ namespace EstudiantesServer
 
         private void button1_Click(object sender, EventArgs e)
         {
-           // IPAddress ip = IPAddress.Parse("127.0.0.1");
-           IPAddress ip = IPAddress.Parse("192.168.2.103");
+            IPAddress ip = IPAddress.Parse("127.0.0.1");
             _listenerClient = new TcpListener(ip, 16830);
             _connected = true;
 
