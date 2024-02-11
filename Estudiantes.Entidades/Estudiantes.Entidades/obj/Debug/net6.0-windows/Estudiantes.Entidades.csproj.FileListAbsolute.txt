@@ -1,0 +1,11 @@
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\bin\Debug\net6.0-windows\Estudiantes.Entidades.deps.json
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.AssemblyInfoInputs.cache
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.AssemblyInfo.cs
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.csproj.CoreCompileInputs.cache
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\refint\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\ProyectosCurriculum\ClienteServidor\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\ref\Estudiantes.Entidades.dll
