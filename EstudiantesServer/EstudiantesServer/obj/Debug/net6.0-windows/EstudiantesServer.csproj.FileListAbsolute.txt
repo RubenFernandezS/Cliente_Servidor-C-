@@ -1,0 +1,87 @@
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.GenerateResource.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.AssemblyInfoInputs.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.AssemblyInfo.cs
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.CoreCompileInputs.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.exe
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.deps.json
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.runtimeconfig.json
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\refint\EstudiantesServer.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.genruntimeconfig.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\ref\EstudiantesServer.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.AssemblyReference.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.CopyComplete
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.Properties.Resources.resources
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmGestionStudent.resources
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmGestionTeacher.resources
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmServer.resources
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmMenu.resources
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmEditStudent.resources
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmEditTeacher.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.exe
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.deps.json
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.runtimeconfig.json
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.AssemblyReference.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmEditStudent.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmEditTeacher.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmGestionStudent.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmGestionTeacher.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmMenu.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmServer.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.Properties.Resources.resources
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.GenerateResource.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.AssemblyInfoInputs.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.AssemblyInfo.cs
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.CoreCompileInputs.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.CopyComplete
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\refint\EstudiantesServer.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.genruntimeconfig.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\ref\EstudiantesServer.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.AssemblyReference.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\refint\EstudiantesServer.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.exe
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.deps.json
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.runtimeconfig.json
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\bin\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmEditStudent.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmEditTeacher.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmGestionStudent.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmGestionTeacher.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmMenu.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.FrmServer.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.Properties.Resources.resources
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.GenerateResource.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.AssemblyInfoInputs.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.AssemblyInfo.cs
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.CoreCompileInputs.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.csproj.CopyComplete
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\EstudiantesServer.genruntimeconfig.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer\obj\Debug\net6.0-windows\ref\EstudiantesServer.dll
