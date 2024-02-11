@@ -1,0 +1,45 @@
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.deps.json
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.AssemblyReference.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.AssemblyInfoInputs.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.AssemblyInfo.cs
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.CoreCompileInputs.cache
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.CopyComplete
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\refint\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\ProyectosCurriculum\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\ref\EstudiantesServer.Datos.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.deps.json
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.AssemblyReference.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.AssemblyInfoInputs.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.AssemblyInfo.cs
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.CoreCompileInputs.cache
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.CopyComplete
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\refint\EstudiantesServer.Datos.dll
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\Users\RubenFernandez\OneDrive - Universidad Estatal a Distancia\Documentos\ClienteServidor\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\ref\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.deps.json
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\Estudiantes.Entidades.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\bin\Debug\net6.0-windows\Estudiantes.Entidades.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.AssemblyReference.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.AssemblyInfoInputs.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.AssemblyInfo.cs
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.CoreCompileInputs.cache
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.csproj.CopyComplete
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\refint\EstudiantesServer.Datos.dll
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\EstudiantesServer.Datos.pdb
+C:\ProyectosCurriculum\Client_Server\EstudiantesServer\EstudiantesServer.Datos\obj\Debug\net6.0-windows\ref\EstudiantesServer.Datos.dll

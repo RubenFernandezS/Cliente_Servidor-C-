@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Estudiantes.Entidades">
+      <HintPath>..\..\Estudiantes.Entidades\Estudiantes.Entidades\obj\Debug\net6.0-windows\Estudiantes.Entidades.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
